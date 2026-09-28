@@ -1,0 +1,2 @@
+nc: 6
+names: ['car', 'van', 'bus', 'truck', 'motorcycle', 'traffic_police']
